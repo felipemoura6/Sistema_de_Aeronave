@@ -2,7 +2,7 @@ package main.aeronave;
 
 import java.util.ArrayList;
 
-public class MainAeronave {   //Felipe Moura Ribeiro e Juliana da Silva Leite
+public class MainAeronave {   //Felipe Moura Ribeiro
 
     static ArrayList Aeronaves = new ArrayList(10);
 
